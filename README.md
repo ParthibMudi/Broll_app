@@ -30,8 +30,7 @@ cd broll_app
 # Install Python dependencies
 pip install -r requirements.txt
 
-# Make startup script executable
-chmod +x start.sh
+python app.py
 ```
 
 ## Running
